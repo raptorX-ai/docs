@@ -58,6 +58,12 @@
       ]
     },
     {
+      "group": "Dataset Description",
+      "pages": [
+        "dataset-description/patent-dataset-inventory"
+      ]
+    },
+    {
       "group": "Essentials",
       "pages": [
         "essentials/markdown",
